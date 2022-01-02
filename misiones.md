@@ -6,3 +6,4 @@
 5. Investigar los trabajos del Joker
 6. Tratar de investigar que trama el Flash Reverso
 7. Probando el git diff
+8. Probando el git diff con lo que esta en el staged
