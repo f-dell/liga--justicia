@@ -1,0 +1,3 @@
+# Historia de Batichica
+
+Batgirl (en español: Chica Murciélago) o Batichica (en Hispanoamérica) es el nombre de varias superheroínas ficticias que aparecen en los cómics estadounidenses publicados por DC Comics, representados como contrapartes femeninas del superhéroe Batman. Aunque el personaje Betty Kane se introdujo en la publicación en 1961 por Bill Finger y Sheldon Moldoff como Bat-Girl, fue reemplazada por Barbara Gordon en 1967, quien luego fue identificada como la icónica Batgirl. El personaje debutó en Detective Comics clasificado como 12 años en adelante # 359, titulado "¡El debut del millón de dólares de Batgirl!" (enero de 1967) del escritor Gardner Fox y del artista Carmine Infantino, se presentó como la hija del comisario de policía James Gordon.
