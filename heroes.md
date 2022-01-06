@@ -1,5 +1,7 @@
 # Heroes
-
+* Leon-O
+* Chitara
+* Phantro
 * Superman
 * Batman
 * Aquaman
