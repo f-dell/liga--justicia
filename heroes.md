@@ -1,9 +1,5 @@
 # Heroes
 
-* Leon-O
-* Chitara
-* Phantro
-* Tigro
 * Superman
 * Batman
 * Aquaman
