@@ -8,3 +8,4 @@
 5. Deadshot
 6. Harley Quinn
 7. Mumm-Ra
+8. Antiguos espiritus del mal
