@@ -11,3 +11,4 @@
 9. Antiguos espiritus del mal
 10. Mandrilok
 11. Chacalom
+12. Buitro
