@@ -3,9 +3,10 @@
 1. Mumm-Ra
 2. Reptilio
 3. Antiguos espirutus del mal
-4. Lex Luthor
-5. Joker
-6. Flash Reverso
-7. Doomsday
-8. Deadshot
-9. Harley Quinn
+4. Mandrilok
+5. Lex Luthor
+6. Joker
+7. Flash Reverso
+8. Doomsday
+9. Deadshot
+10. Harley Quinn
